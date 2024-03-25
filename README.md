@@ -40,7 +40,7 @@ Socials:
 <p align="left">
   <a href="https://www.linkedin.com/in/robert-adrian-oprean-967b06265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn profile" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/robi.oprean/" target="blank"><img align="center" src="public/icons/instagram/instagram.svg" alt="Instagram profile" height="30" width="40" />
+  <a href="https://www.instagram.com/robi.oprean/" target="blank"><img align="center" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/README.md/public/icons/instagram/instagram.svg" alt="Instagram profile" height="30" width="40" />
   </a>
 </p>
 
