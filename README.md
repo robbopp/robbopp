@@ -46,6 +46,10 @@ Socials:
   </a>
 </p>
 
+#
+
+Email:
+
 📧 You can contact me at robert.oprean10@gmail.com
 
 <!--
