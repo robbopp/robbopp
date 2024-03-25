@@ -30,6 +30,20 @@ I'm a passionate Computer Science and Mathematics student at Babes-Bolyai Univer
 
 #
 
+### 📊 Stats
+
+![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robbopp&show_icons=true&theme=vue-dark)
+
+#
+
+Socials:
+<p align="left">
+  <a href="https://www.linkedin.com/in/robert-adrian-oprean-967b06265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn profile" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/robi.oprean/" target="blank"><img align="center" src="public/icons/instagram/instagram.svg" alt="Instagram profile" height="30" width="40" />
+  </a>
+</p>
+
 <!--
 **robbopp/robbopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
