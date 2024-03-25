@@ -5,14 +5,11 @@
 I'm a passionate Computer Science and Mathematics student at Babes-Bolyai University of Cluj-Napoca, eager to dive into coding and problem-solving. With a dedication to becoming a versatile and reliable software developer, I'm thrilled to embark on this journey!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/robert-adrian-oprean-967b06265/">
-    <img alt="LinkedIn profile" title="Go to my linkedIn profile" src=https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=ikdin"/>
-  </a>
   <a href="https://github.com/robbopp?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/robbopp?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
-  <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  <a href="https://github.com/robbopp?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/robbopp?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
 </p>
 
