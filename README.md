@@ -38,9 +38,16 @@ I'm a passionate Computer Science and Mathematics student at Babes-Bolyai Univer
 
 Socials:
 <p align="left">
-  <a href="https://www.linkedin.com/in/robert-adrian-oprean-967b06265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn profile" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/robert-adrian-oprean-967b06265/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn profile" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/robi.oprean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robi.oprean" height="30" width="40" />
+  <a href="https://www.leetcode.com/robbopp" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="robbopp" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerearth.com/@robert_oprean10" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@robert_oprean10" height="30" width="40" />  </a>
+  <a href="https://instagram.com/robi.oprean" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robi.oprean" height="30" width="40" />
   </a>
 </p>
 
