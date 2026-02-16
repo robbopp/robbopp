@@ -12,22 +12,19 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 **Freelance Full-Stack Developer** with a solid foundation in **Computer Science and Mathematics** from **Babeș-Bolyai University of Cluj-Napoca**. I specialize in building end-to-end web applications and am actively expanding my expertise into **cybersecurity**. Proficient in Linux environments and command-line workflows.
 
-- 🎓 Graduate in **Computer Science & Mathematics** from UBB Cluj-Napoca
-- 💼 Currently working as a **Freelance Full-Stack Developer**
-- 🔐 Aspiring **Cybersecurity Professional** - actively learning penetration testing, security protocols, and ethical hacking
-- 🐧 Experienced with **Linux systems** and **command-line tools**
-- 🚀 Building scalable web applications from concept to deployment
-- 💡 Passionate about clean code, security-first development, and problem-solving
-- 🌍 Available for freelance projects and collaborations
-- 📧 Let's work together: **robert.oprean10@gmail.com**
+-  Graduate in **Computer Science & Mathematics** from UBB Cluj-Napoca
+-  Currently working as a **Freelance Full-Stack Developer**
+-  Aspiring **Cybersecurity Professional** - actively learning penetration testing, security protocols, and ethical hacking
+-  Experienced with **Linux systems** and **command-line tools**
+-  Let's work together: **robert.oprean10@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -63,7 +60,7 @@
 
 ---
 
-## 💼 What I Offer
+## What I Offer
 
 ```javascript
 const services = {
@@ -75,21 +72,14 @@ const services = {
     other: ['Code Review', 'Performance Optimization', 'Technical Consulting']
 };
 
-// Always delivering quality, on time, every time ✨
+// Always delivering quality, on time, every time 
 ```
 
 ---
 
-## 🔐 Cybersecurity Journey
+## Cybersecurity Journey
 
 Currently expanding my skill set into cybersecurity with focus on:
-
-- 🛡️ **Network Security** - Understanding protocols, firewalls, and secure architectures
-- 🔍 **Penetration Testing** - Learning ethical hacking methodologies and tools
-- 🐧 **Linux Security** - Hardening systems and understanding privilege escalation
-- 🔐 **Web Application Security** - OWASP Top 10, secure coding practices
-- 🔑 **Cryptography** - Encryption algorithms and secure communications
-- 📜 **Security Certifications** - Working towards industry-recognized certifications
 
 ```bash
 #!/bin/bash
@@ -105,17 +95,7 @@ done
 
 ---
 
-## 🏆 Competitive Programming
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/robbopp?theme=dark&font=Ubuntu&ext=heatmap)](https://leetcode.com/robbopp/)
-
-</div>
-
----
-
-## 🎯 Current Status
+##  Current Status
 
 ```python
 class RobertOprean:
@@ -133,7 +113,7 @@ class RobertOprean:
     def get_in_touch(self):
         return {
             "email": "robert.oprean10@gmail.com",
-            "status": "✅ Available for new projects",
+            "status": "Available for new projects",
             "response_time": "Within 24 hours",
             "specialties": ["Full-Stack Dev", "Linux Systems", "Security-Aware Development"]
         }
@@ -144,20 +124,18 @@ print(me.get_in_touch())
 
 ---
 
-## 💡 Why Work With Me?
+##  Why Work With Me?
 
-- ✅ **Clean, Maintainable Code** - Following best practices and industry standards
-- ✅ **Security-First Mindset** - Building applications with security considerations from the ground up
-- ✅ **Problem Solver** - Strong algorithmic thinking from competitive programming background
-- ✅ **Full-Stack Expertise** - Comfortable with both frontend and backend development
-- ✅ **Linux Proficiency** - Experienced with command-line tools and system administration
-- ✅ **Fast Learner** - Quick to adapt to new technologies and frameworks
-- ✅ **Reliable Communication** - Regular updates and transparent workflow
-- ✅ **Academic Excellence** - Solid foundation in CS and Mathematics
+-  **Clean, Maintainable Code** - Following best practices and industry standards
+-  **Problem Solver** - Strong algorithmic thinking from competitive programming background
+-  **Full-Stack Expertise** - Comfortable with both frontend and backend development
+-  **Linux Proficiency** - Experienced with command-line tools and system administration
+-  **Fast Learner** - Quick to adapt to new technologies and frameworks
+-  **Reliable Communication** - Regular updates and transparent workflow
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 ```bash
 $ cat learning_path.txt
@@ -170,7 +148,7 @@ $ cat learning_path.txt
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
@@ -179,11 +157,11 @@ $ cat learning_path.txt
 
 **Open to freelance projects and collaborations!**
 
-💼 [LinkedIn](https://www.linkedin.com/in/robert-adrian-oprean-967b06265/) • 
-💻 [LeetCode](https://www.leetcode.com/robbopp) • 
-📧 [Email](mailto:robert.oprean10@gmail.com)
+ [LinkedIn](https://www.linkedin.com/in/robert-adrian-oprean-967b06265/) • 
+ [LeetCode](https://www.leetcode.com/robbopp) • 
+ [Email](mailto:robert.oprean10@gmail.com)
 
-**📞 Available for consultation and project discussions**
+** Available for consultation and project discussions**
 
 </div>
 
@@ -191,10 +169,10 @@ $ cat learning_path.txt
 
 <div align="center">
 
-### ⭐ *"Security is not a product, but a process."* – Bruce Schneier
+### *"Security is not a product, but a process."* – Bruce Schneier
 
 ![Profile Views](https://komarev.com/ghpvc/?username=robbopp&color=blueviolet&style=flat-square&label=Profile+Views)
 
-**💼 Currently accepting new freelance projects | Let's build something great together! 🚀**
+** Currently accepting new freelance projects | Let's build something great together! 🚀**
 
 </div>
